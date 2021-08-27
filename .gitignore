@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Database data
+pgdata
+
+#Later separate dev & prod environment script
+dev.sh
