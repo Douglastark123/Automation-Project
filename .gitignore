@@ -107,4 +107,4 @@ dist
 pgdata
 
 #Later separate dev & prod environment script
-dev.sh
+# dev.sh
